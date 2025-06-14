@@ -1,0 +1,12 @@
+{
+  "name": "Conect.@Mente",
+  "short_name": "Conect.@Mente",
+  "id": "com.example.gamename",
+  "description": "Conect.@Mente: Navegue com Respeito, Aprenda em Cada Conexão é um jogo educacional digital que explora temas relacionados à Cultura Digital e as habilidades do Pensamento Computacional. No jogo, o jogador é imerso em minijogos que abordam aspectos como segurança digital, cyberbullying, equilíbrio no uso da tecnologia e combate às fake news. O recurso Conect.@Mente foi desenvolvido como parte da Dissertação de Mestrado, pelo professor Kennedy dos Santos Silva, sob a orientação dos professores Anderson C. de Lima, Amaury Antonio de C. Junior  e Valguima Victoria V. A. Odakura.",
+  "orientation": "landscape",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
